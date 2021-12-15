@@ -1,0 +1,9 @@
+Lung_Colon_Cancer (768p_RGB_Custom_noTL_DataFrame):
+
+5k1->Test Acc: 0.9768, Precision: 0.9768, Recall: 0.9768, Test Loss: 0.3157
+5k2->Test Acc: 0.9653, Precision: 0.9653, Recall: 0.9649, Test Loss: 0.3687
+5k3->Test Acc: 0.9784, Precision: 0.9788, Recall: 0.9784, Test Loss: 0.3407
+5k4->Test Acc: 0.9700, Precision: 0.9701, Recall: 0.9698, Test Loss: 0.3660
+5k5->Test Acc: 0.9766, Precision: 0.9766, Recall: 0.9764, Test Loss: 0.3401
+Avg->Test Acc: 0.9734, Precision: 0.9735, Recall: 0.9732, Test Loss: 0.3462
+Compare->(Acc: 96.33%, Precision: 96.39%, Recall: 96.37%, F-Measure: 96.38%)

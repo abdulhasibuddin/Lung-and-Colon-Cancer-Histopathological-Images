@@ -1,0 +1,14 @@
+10-folds (5 epochs, run-1):
+--------------------------
+1.  accuracy=1.0,     sensitivity=recall=1.0,    specificity=1.0,    precision=1.0,    f1_score=1.0,    auc=1.0
+2.  accuracy=0.9996,  sensitivity=recall=0.9996, specificity=0.9999, precision=0.9996, f1_score=0.9996, auc=1.0
+3.  accuracy=0.9992,  sensitivity=recall=0.9992, specificity=0.9998, precision=0.9992, f1_score=0.9992, auc=0.9997
+4.  accuracy=1.0,     sensitivity=recall=1.0,    specificity=1.0,    precision=1.0,    f1_score=1.0,    auc=1.0
+5.  accuracy=0.9992,  sensitivity=recall=0.9992, specificity=0.9998, precision=0.9992, f1_score=0.9992, auc=1.0
+6.  accuracy=1.0,     sensitivity=recall=1.0,    specificity=1.0,    precision=1.0,    f1_score=1.0,    auc=1.0
+7.  accuracy=1.0,     sensitivity=recall=1.0,    specificity=1.0,    precision=1.0,    f1_score=1.0,    auc=1.0
+8.  accuracy=1.0,     sensitivity=recall=1.0,    specificity=1.0,    precision=1.0,    f1_score=1.0,    auc=1.0
+9.  accuracy=0.9984,  sensitivity=recall=0.9984, specificity=0.9996, precision=0.9984, f1_score=0.9984, auc=1.0
+10. accuracy=0.9996,  sensitivity=recall=0.9996, specificity=0.9999, precision=0.9996, f1_score=0.9996, auc=1.0
+---
+Avg accuracy=0.9996,  sensitivity=recall=0.9996, specificity=0.9999, precision=0.9996, f1_score=0.9996, auc=0.99997
